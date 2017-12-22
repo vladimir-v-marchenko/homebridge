@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfarina/homebridge.git"
+    "url": "git://github.com/vladimir-v-marchenko/homebridge.git"
   },
   "bugs": {
-    "url": "http://github.com/nfarina/homebridge/issues"
+    "url": "http://github.com/vladimir-v-marchenko/homebridge/issues"
   },
   "license": "ISC",
   "main": "lib/api.js",
